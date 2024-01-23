@@ -6,7 +6,11 @@ Before you run the script, make sure to change the file paths.
 
 
 Read the raw data into a DataFrame.
+
 Handling missing values by dropping rows with any missing values.
+
 Removing duplicate rows.
+
 Standardizing formats.
+
 Save the cleaned data to a new CSV file.
